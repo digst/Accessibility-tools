@@ -7,6 +7,6 @@ https://wave.webaim.org/
 https://www.w3.org/TR/WCAG21/
 
 
-### PDF
+### PDF Accessibility Checker
 
 **Download PAC3 here** https://www.access-for-all.ch/images/pac_data/PAC3.zip
