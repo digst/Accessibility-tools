@@ -1,7 +1,8 @@
 # WCAG-tools
-##Tools for WCAG test
 
-### Scanner
+## WEB accessibility test
+
+### WEB accessibility evaluation tool
 https://wave.webaim.org/
 
 ### Web Content Accessibility Guidelines (WCAG) 2.1
