@@ -18,4 +18,4 @@ To scan a PDF download PAC3 and drop your PDF into the applikation.
 
 For editing PDFs PAC3 recommends using Adobe Acrobat DC.
 
-DirSek offers a course in using PAC3.  
+Dirsek offers a course in using PAC3.  
