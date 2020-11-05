@@ -1,4 +1,4 @@
-# WCAG-tools
+# Accessibility-tools
 
 
 ### WEB accessibility evaluation tool
