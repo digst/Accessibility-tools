@@ -1,7 +1,7 @@
 # Accessibility-tools
 
 
-### WEB accessibility evaluation tool
+## WEB accessibility evaluation tool
 https://wave.webaim.org/
 
 In addition different private actors offer plugins for various browsers. 
