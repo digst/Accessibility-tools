@@ -1,5 +1,7 @@
 # WCAG-tools
 
+##WEB
+
 ### WEB accessibility evaluation tool
 https://wave.webaim.org/
 
@@ -8,8 +10,9 @@ In addition different private actors offer plugins for various browsers.
 ### Web Content Accessibility Guidelines (WCAG) 2.1
 https://www.w3.org/TR/WCAG21/
 
+##PDF
 
-### PDF Accessibility Checker
+## PDF Accessibility Checker
 
 To scan a PDF download PAC3 and drop your PDF into the applikation.
 
