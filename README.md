@@ -9,4 +9,4 @@ https://www.w3.org/TR/WCAG21/
 
 ### PDF
 
-**Download PAC3** https://www.access-for-all.ch/images/pac_data/PAC3.zip
+**Download PAC3 here** https://www.access-for-all.ch/images/pac_data/PAC3.zip
