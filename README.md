@@ -1,7 +1,5 @@
 # WCAG-tools
 
-## WEB accessibility test
-
 ### WEB accessibility evaluation tool
 https://wave.webaim.org/
 
